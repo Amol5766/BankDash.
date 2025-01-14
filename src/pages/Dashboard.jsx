@@ -68,7 +68,7 @@ const Dashboard = () => {
       {/* Sidebar */}
       <div className="w-1/6 bg-white text-slate-700 p-4 hidden lg:block ">
         <div className="flex items-center mb-6 my-4">
-          <img src="dist\assets\icon.png" alt="Logo" className="w-8 h-8 mr-2" />
+          <img src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/icon_dfgplh.png" alt="Logo" className="w-8 h-8 mr-2" />
           <h2 className="text-2xl font-semibold">BankDash.</h2>
         </div>
         <br />
@@ -142,21 +142,21 @@ const Dashboard = () => {
             <div className="flex justify-between items-center mx-5">
               <div className="bg-gray-200 h-12 w-12 rounded-full flex justify-center items-center">
                 <img
-                  src="dist\assets\setting.svg"
+                  src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841277/setting_o67nzn.svg"
                   alt="image"
                   className="object-cover h-full w-full rounded-full cursor-pointer"
                 />
               </div>
               <div className="bg-gray-200 h-12 w-12 rounded-full flex justify-center items-center mx-5">
                 <img
-                  src="dist\assets\notification.svg"
+                  src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/notification_vi6j3q.svg"
                   alt="image"
                   className="object-cover h-full w-full rounded-full cursor-pointer"
                 />
               </div>
               <div className="bg-gray-200 h-14 w-14 rounded-full mx-4">
                 <img
-                  src="dist\assets\lady.png"
+                  src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/lady_wlvokh.png"
                   alt="image"
                   className="object-cover h-full w-full rounded-full cursor-pointer"
                 />
@@ -192,7 +192,7 @@ const Dashboard = () => {
                     <span className="text-2xl font-bold block">$5,243</span>
                   </div>
                   <img
-                    src="dist\assets\Chip_Card@2x.png"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841275/Chip_Card_2x_lscnmb.png"
                     alt="Chip"
                     className="h-8 w-auto"
                   />
@@ -221,7 +221,7 @@ const Dashboard = () => {
                     3778 **** **** 1234
                   </div>
                   <img
-                    src="dist\assets\mastercard.svg"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841275/mastercard_h48bjx.svg"
                     alt="Mastercard"
                     className="h-10 w-auto"
                   />
@@ -237,7 +237,7 @@ const Dashboard = () => {
                     <span className="text-2xl font-bold block">$5,243</span>
                   </div>
                   <img
-                    src="dist\assets\Chip_Card@2x.png"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841275/Chip_Card_2x_lscnmb.png"
                     alt="Chip"
                     className="h-8 w-auto"
                   />
@@ -266,7 +266,7 @@ const Dashboard = () => {
                     3778 **** **** 1234
                   </div>
                   <img
-                    src="dist\assets\mastercard.svg"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841275/mastercard_h48bjx.svg"
                     alt="Mastercard"
                     className="h-10 w-auto"
                   />
@@ -281,7 +281,7 @@ const Dashboard = () => {
                   <div className="flex justify-between items-center">
                     <div className="flex items-center">
                       <img
-                        src="dist\assets\cardDeposit.svg"
+                        src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841275/cardDeposit_aeut4q.svg"
                         alt="Amazon"
                         className="h-12 w-12 mr-3"
                       />
@@ -301,7 +301,7 @@ const Dashboard = () => {
                   <div className="flex justify-between items-center">
                     <div className="flex items-center">
                       <img
-                        src="dist\assets\paypal.svg"
+                        src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841277/paypal_xpr5pk.svg"
                         alt="Starbucks"
                         className="h-12 w-12 mr-3"
                       />
@@ -321,7 +321,7 @@ const Dashboard = () => {
                   <div className="flex justify-between items-center">
                     <div className="flex items-center">
                       <img
-                        src="dist\assets\Jemi.svg"
+                        src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/Jemi_dq6fi4.svg"
                         alt="Uber"
                         className="h-12 w-12 mr-3"
                       />
@@ -367,7 +367,7 @@ const Dashboard = () => {
                 {/* Person 1 */}
                 <div className="flex flex-col items-center">
                   <img
-                    src="dist\assets\CEO.png"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/CEO_f0tgsf.png"
                     alt="Person 1"
                     className="h-16 w-16 rounded-full mb-2"
                   />
@@ -378,7 +378,7 @@ const Dashboard = () => {
                 {/* Person 2 */}
                 <div className="flex flex-col items-center">
                   <img
-                    src="dist\assets\director.png"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/director_iod6nf.png"
                     alt="Person 2"
                     className="h-16 w-16 rounded-full mb-2"
                   />
@@ -389,7 +389,7 @@ const Dashboard = () => {
                 {/* Person 3 */}
                 <div className="flex flex-col items-center">
                   <img
-                    src="dist\assets\Designer.png"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/Designer_dcy9h0.png"
                     alt="Person 3"
                     className="h-16 w-16 rounded-full mb-2"
                   />
@@ -400,7 +400,7 @@ const Dashboard = () => {
                 {/* Right Arrow Icon */}
                 <div>
                   <img
-                    src="dist\assets\right arrow.svg"
+                    src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841277/right_arrow_ujjdl9.svg"
                     alt="arrow"
                     className="h-28 w-28 rounded-full mb-2 cursor-pointer"
                   />
