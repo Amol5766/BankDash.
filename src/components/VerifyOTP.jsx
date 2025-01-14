@@ -48,7 +48,7 @@ const VerifyOTP = () => {
     <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-br from-blue-600 via-indigo-500 to-purple-400">
       <div className="absolute top-0 left-0 py-6 pl-6 flex items-center">
         <img
-          src="dist\react.svg" // Update to the correct logo path
+          src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/icon_dfgplh.png" // Update to the correct logo path
           alt="Logo"
           className="h-12 mr-4"
         />
@@ -89,7 +89,7 @@ const VerifyOTP = () => {
       </div>
       {/* Image at the bottom right corner */}
       <img
-        src="dist\assets\man.png"
+        src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/man_vbyoq8.png"
         alt="Decorative"
         className="absolute -bottom-1 right-4 sm:right-8 md:right-16 lg:right-32 h-72 sm:h-96 md:h-80 lg:h-full "
       />
