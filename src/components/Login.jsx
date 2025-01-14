@@ -36,7 +36,7 @@ const Login = () => {
       {/* Logo Section */}
       <div className="absolute top-0 left-0 py-6 pl-6 flex items-center">
         <img
-          src="public\react.svg" // Update to the correct logo path
+          src="vite.svg" // Update to the correct logo path
           alt="Logo"
           className="h-12 mr-4"
         />
