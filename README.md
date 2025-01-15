@@ -1,9 +1,9 @@
 <h2 align="center">
 <p align="center" style="font-size: 1.2em;"><br/>
-  <a href="https://bankdash-ochre.vercel.app/" target="_blank">BankDash</a>
+  <a href="https://bankdash-ochre.vercel.app/" target="_blank">BankDash.</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="public/meta.jpg" />
+  <img alt="Demo" src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736936061/Bankdash._alpamc.png" />
 </div>
 
 <h1 align="center" style="font-size: 3em;">BankDash 🔒📊</h1>
