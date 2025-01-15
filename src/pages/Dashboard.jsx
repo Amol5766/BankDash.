@@ -157,7 +157,7 @@ const Dashboard = () => {
                 <img
                   src="dist/assets/notification.svg"
                   alt="notifications"
-                  className="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/notification_vi6j3q.svg"
+                  className="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841277/right_arrow_ujjdl9.svg"
                 />
               </div>
 
