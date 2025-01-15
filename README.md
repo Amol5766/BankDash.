@@ -1,6 +1,6 @@
 <h2 align="center">
 <p align="center" style="font-size: 1.2em;"><br/>
-  <a href="https://bankdash.com" target="_blank">BankDash</a>
+  <a href="https://bankdash-ochre.vercel.app/" target="_blank">BankDash</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="public/meta.jpg" />
