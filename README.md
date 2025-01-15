@@ -25,9 +25,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Amol5766/BankDash/issues/new">💡 Submit an Issue</a> &nbsp; &nbsp;
+    <a href="https://github.com/Amol5766/BankDash./issues/new">💡 Submit an Issue</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Amol5766/BankDash/pulls">🚀 Request a Feature</a>
+    <a href="https://github.com/Amol5766/BankDash./pulls">🚀 Request a Feature</a>
 </h3>
 
 ## TL;DR
