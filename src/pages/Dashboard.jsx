@@ -155,9 +155,9 @@ const Dashboard = () => {
               {/* Notification Icon */}
               <div className="bg-gray-200 h-10 w-10 sm:h-12 sm:w-12 rounded-full flex justify-center items-center">
                 <img
-                  src="dist/assets/notification.svg"
+                  src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736974983/notification_bzhzos.svg"
                   alt="notifications"
-                  className="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/notification_vi6j3q.svg"
+                  className="object-cover h-full w-full rounded-full cursor-pointer"
                 />
               </div>
 
