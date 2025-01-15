@@ -36,7 +36,7 @@ const Login = () => {
       {/* Logo Section */}
       <div className="absolute top-0 left-0 py-6 pl-6 flex items-center">
         <img
-          src="dist\react.svg" // Update to the correct logo path
+          src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841277/react_abv0ar.svg" // Update to the correct logo path
           alt="Logo"
           className="h-12 mr-4"
         />
@@ -67,7 +67,7 @@ const Login = () => {
 
       {/* Image at the bottom right corner */}
       <img
-        src="dist\assets\man.png"
+        src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1736841276/man_vbyoq8.png"
         alt="Decorative"
         className="absolute -bottom-2 right-4 sm:right-8 md:right-16 lg:right-32 h-72 sm:h-96 md:h-80 lg:h-full "
       />
